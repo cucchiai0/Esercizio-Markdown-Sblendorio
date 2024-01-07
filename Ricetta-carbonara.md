@@ -37,7 +37,7 @@ _Difficolta_ del piatto : *facile*
 ***
 
 #### 3) Procedimento
-- Eliminare la cotenna del guanciale, tagliare a
+- Eliminare la cotenna del guanciale[^2], tagliare a
 listarelle spesse circa mezzo centimetro. Lasciare
 sfrigolare in una padella a fuoco moderato finché la
 parte grassa diventa trasparente. Versare il grasso
@@ -76,3 +76,4 @@ In caso di inconvenienti si posso consultare questi link:
 ***
 
 [^1]: _Questa è la preparazione normale, ma integrata con l'usanza tipica Romana della carbonara_
+[^2]: _Una tipica parte del guanciale_
