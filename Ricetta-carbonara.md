@@ -8,11 +8,15 @@
 4. *Link collegati*
    ***
    
-## Ingredienti da Utilizzare
+#### 1) Ingredienti da Utilizzare
 - 400 g di Mezze Maniche Rigate
 - Voiello n. 122
 - 200 g Pecorino
 - 5 tuorli d'uovo
 - 280 g guanciale
 - Pepe nero q.b.
+***
+
+#### 2) Tempistiche e difficolta
+
 [^1]: queste non sono maniche
