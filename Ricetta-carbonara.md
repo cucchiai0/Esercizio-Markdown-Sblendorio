@@ -71,6 +71,8 @@ In caso di inconvenienti si posso consultare questi link:
 >[Altri consigli sulla preparazione](https://it.wikipedia.org/wiki/Pasta_alla_carbonara)
 >
 >[Altre ricette](https://www.voiello.it/ricette/)
+>
+>[Viaggi low cost a Roma](https://www.ryanair.com/flights/it/it/voli-a-roma)
+***
 
-
-[^1]: _Questa è la preparazione normale, ma preparate integrata con l'usanza tipica romana_
+[^1]: _Questa è la preparazione normale, ma integrata con l'usanza tipica Romana della carbonara_
